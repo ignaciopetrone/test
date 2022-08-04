@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "vevo",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/ignaciopetrone/test#readme",
+  "bugs": {
+    "url": "https://github.com/ignaciopetrone/test/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignaciopetrone/test.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
